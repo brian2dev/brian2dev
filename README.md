@@ -2,7 +2,9 @@
 <h3 align="center">Full-Stack Web Developer and Innovation Seeker</h3>
 
 
+
 Hi 👋, I'm Brian, a web developer with more than seven years of experience in creating and maintaining web applications. I love building websites that are user-friendly, responsive and secure, using the latest technologies and frameworks. Thank you for taking the time and interest to read my profile. Here are some of my skills and experience.
+
 
 - I have a solid knowledge of front-end technologies such as HTML, CSS, JavaScript, jQuery, Bootstrap, React, Angular and Vue, as well as the ability to implement designs from tools such as figma, zeplin, sketch and adobe xd. In addition, I also have experience in developing hybrid apps using React Native and Ionic, leveraging their native UI components, plugins, and performance advantages.
 - I can also work with back-end technologies such as Laravel, Node.js, Express, MongoDB, MySQL, Firebase and GraphQL.
@@ -14,7 +16,9 @@ Hi 👋, I'm Brian, a web developer with more than seven years of experience in 
 - I have experience in server hosting and management using AWS, the leading cloud computing platform. I can set up, configure and deploy web applications using various AWS services such as EC2, S3, Lambda, RDS, DynamoDB, CloudFront and more. I can also monitor, troubleshoot and optimize the performance, security and scalability of the servers using tools such as CloudWatch, CloudFormation, CloudTrail and IAM. I can also use AWS CLI and SDK to automate and integrate tasks and workflows. I have a good understanding of the AWS architecture, best practices and pricing models.
 - I'm always eager to learn new skills and keep up with the latest trends and best practices in web development.
 
+
 If you are interested in working with me on projects, please feel free to contact me. Thank you for reading my profile. You are very kind and generous. I'm sure we can work together to create amazing websites that will meet your expectations and goals.
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brian2dev&label=Profile%20views&color=0e75b6&style=flat" alt="brian2dev" /> </p>
