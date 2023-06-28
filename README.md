@@ -1,3 +1,5 @@
+Full-Stack Web Developer and Innovation Seeker
+
 I'm Brian, a web developer with more than seven years of experience in creating and maintaining web applications. I love building websites that are user-friendly, responsive and secure, using the latest technologies and frameworks. Thank you for taking the time and interest to read my profile. Here are some of my skills and experience.
 
 - I have a solid knowledge of front-end technologies such as HTML, CSS, JavaScript, jQuery, Bootstrap, React, Angular and Vue, as well as the ability to implement designs from tools such as figma, zeplin, sketch and adobe xd. In addition, I also have experience in developing hybrid apps using React Native and Ionic, leveraging their native UI components, plugins, and performance advantages.
